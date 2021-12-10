@@ -104,8 +104,8 @@ author_profile: true
   <div class="column">
     <div class="neonatal">
       <h3>Neonatal Seizure Detection</h3>
-      [![GitHub license](https://img.shields.io/github/license/vishaln15/NeonatalSeizureDetection)](https://github.com/vishaln15/NeonatalSeizureDetection/blob/main/LICENSE)
-      ![GitHub Repo stars](https://img.shields.io/github/stars/vishaln15/NeonatalSeizureDetection?style=social)
+      <a href="https://github.com/vishaln15/NeonatalSeizureDetection/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/vishaln15/NeonatalSeizureDetection"></a>
+      <a href="https://github.com/vishaln15/NeonatalSeizureDetection/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/vishaln15/NeonatalSeizureDetection?style=plastic"></a>
       <a href="https://github.com/vishaln15/NeonatalSeizureDetection" style="text-decoration: none"><i class="fab fa-github"></i></a>
       This repository contains the code for my research on Neonatal Seizure Detection.
     </div>
@@ -114,8 +114,8 @@ author_profile: true
   <div class="column">
     <div class="atrial">
       <h3>Arrhythmia Detection</h3>
-      [![GitHub license](https://img.shields.io/github/license/vishaln15/OptimizedArrhythmiaDetection)](https://github.com/vishaln15/OptimizedArrhythmiaDetection/blob/main/LICENSE)
-      [![GitHub forks](https://img.shields.io/github/forks/vishaln15/OptimizedArrhythmiaDetection)](https://github.com/vishaln15/OptimizedArrhythmiaDetection/network)
+      <a href="https://github.com/vishaln15/OptimizedArrhythmiaDetection/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/vishaln15/OptimizedArrhythmiaDetection"></a>
+      <a href="https://github.com/vishaln15/OptimizedArrhythmiaDetection/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/vishaln15/OptimizedArrhythmiaDetection"></a>
       <a href="https://github.com/vishaln15/NeonatalSeizureDetection" style="text-decoration: none"><i class="fab fa-github"></i></a>
       You can find the code in this repository for my research on Atrial Fibrillation Detection.
     </div>
