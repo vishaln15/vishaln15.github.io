@@ -76,6 +76,26 @@ author_profile: true
   background-size: contain;
   background-position: center; 
 }
+.bradycardia{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-image: url('/images/bradycardia.svg');
+  /* position: relative; */
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;  
+}
+.flightdelay{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-image: url('/images/flightdelay.png');
+  /* position: relative; */
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center; 
+}
 </style>
 
 <h2>You can also view my full list of projects <a href="https://github.com/vishaln15" target="_blank">here</a>.</h2>
@@ -84,8 +104,9 @@ author_profile: true
   <div class="column">
     <div class="neonatal">
       <h3>Neonatal Seizure Detection</h3>
-      <p>Some text</p>
-      <p>Some text</p>
+      [![GitHub license](https://img.shields.io/github/license/vishaln15/NeonatalSeizureDetection)](https://github.com/vishaln15/NeonatalSeizureDetection/blob/main/LICENSE)
+      ![GitHub Repo stars](https://img.shields.io/github/stars/vishaln15/NeonatalSeizureDetection?style=social)
+      <p><a href="https://github.com/vishaln15/NeonatalSeizureDetection" style="text-decoration: none"><i class="fab fa-github"></i></a></p>
     </div>
   </div>
 
@@ -118,16 +139,16 @@ author_profile: true
   </div>
 
   <div class="column">
-    <div class="techworld">
-      <h3>TechWorld</h3>
+    <div class="bradycardia">
+      <h3>Bradycardia Prediction</h3>
       <p>Some text</p>
       <p>Some text</p>
     </div>
   </div>
 
   <div class="column">
-    <div class="techworld">
-      <h3>TechWorld</h3>
+    <div class="flightdelay">
+      <h3>Flight Delay Prediction</h3>
       <p>Some text</p>
       <p>Some text</p>
     </div>
