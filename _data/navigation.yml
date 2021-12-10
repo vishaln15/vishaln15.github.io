@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "Timeline"
+    url: /timeline/   
+
+  - title: "Publications"
+    url: /publications/
+    
+  - title: "Projects"
+    url: /projects/
+    
+  - title: "Resume"
+    url: /resume/
+
+  - title: "Contact"
+    url: /contact/
