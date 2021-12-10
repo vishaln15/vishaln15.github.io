@@ -106,15 +106,18 @@ author_profile: true
       <h3>Neonatal Seizure Detection</h3>
       [![GitHub license](https://img.shields.io/github/license/vishaln15/NeonatalSeizureDetection)](https://github.com/vishaln15/NeonatalSeizureDetection/blob/main/LICENSE)
       ![GitHub Repo stars](https://img.shields.io/github/stars/vishaln15/NeonatalSeizureDetection?style=social)
-      <p><a href="https://github.com/vishaln15/NeonatalSeizureDetection" style="text-decoration: none"><i class="fab fa-github"></i></a></p>
+      <a href="https://github.com/vishaln15/NeonatalSeizureDetection" style="text-decoration: none"><i class="fab fa-github"></i></a>
+      This repository contains the code for my research on Neonatal Seizure Detection.
     </div>
   </div>
 
   <div class="column">
     <div class="atrial">
       <h3>Arrhythmia Detection</h3>
-      <p>Some text</p>
-      <p>Some text</p>
+      [![GitHub license](https://img.shields.io/github/license/vishaln15/OptimizedArrhythmiaDetection)](https://github.com/vishaln15/OptimizedArrhythmiaDetection/blob/main/LICENSE)
+      [![GitHub forks](https://img.shields.io/github/forks/vishaln15/OptimizedArrhythmiaDetection)](https://github.com/vishaln15/OptimizedArrhythmiaDetection/network)
+      <a href="https://github.com/vishaln15/NeonatalSeizureDetection" style="text-decoration: none"><i class="fab fa-github"></i></a>
+      You can find the code in this repository for my research on Atrial Fibrillation Detection.
     </div>
   </div>
   
