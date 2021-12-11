@@ -1,3 +1,3 @@
 # My Personal Website
 
-You can view my stats from [here](https://vishaln15.github.io).
+This repository contains the code for my [personal website](https://vishaln15.github.io).
