@@ -5,10 +5,9 @@ permalink: /publication/2021-OptimizedArrhythmiaDetection-1
 date: 2021-11-23
 venue: '20th International Conference on Machine Learning and Applications (ICMLA)'
 confurl: 'https://www.icmla-conference.org/icmla21/'
-paperurl: 'https://arxiv.org/pdf/2111.11789.pdf'
+paperurl: 'https://ieeexplore.ieee.org/document/9680091'
 github: 'https://github.com/vishaln15/OptimizedArrhythmiaDetection'
-citation: 'S. J. B, S. K. T, <b>V. Nagarajan</b>, S. S, and V. Vijayaraghavan, End-to-end optimized arrhythmia
-detection pipeline using machine learning for ultra-edge devices, 2021. arXiv: 2111.11789 [cs.LG].'
+citation: 'J. B. Sideshwar, T. Sachin Krishan, <b>V. Nagarajan</b>, S. S, and V. Vijayaraghavan, “End-to-End Optimized Arrhythmia Detection Pipeline using Machine Learning for Ultra-Edge Devices,” in 2021 20th IEEE International Conference on Machine Learning and Applications (ICMLA), 2021, pp. 1501–1506. doi: 10.1109/ICMLA52953.2021.00242.'
 excerpt: '<h3><strong>Abstract</strong></h3>
 
 Atrial fibrillation (AF) is the most prevalent cardiac arrhythmia worldwide, with $2$% of the population affected. It is associated with an increased risk of strokes, heart failure and other heart-related complications. Monitoring at-risk individuals and detecting asymptomatic AF could result in considerable public health benefits, as individuals with asymptomatic AF could take preventive measures with lifestyle changes. With increasing affordability to wearables, personalized health care is becoming more accessible. These personalized healthcare solutions require accurate classification of bio-signals while being computationally inexpensive. By making inferences on-device, we avoid issues inherent to cloud-based systems such as latency and network connection dependency. We propose an efficient pipeline for real-time Atrial Fibrillation Detection with high accuracy that can be deployed in ultra-edge devices. The feature engineering employed in this research catered to optimizing the resource-efficient classifier used in the proposed pipeline, which was able to outperform the best performing standard ML model by $10$<sup>$5$</sup>$\times$ in terms of memory footprint with a mere trade-off of $2$% classification accuracy. We also obtain higher accuracy of approximately $6$% while consuming $403$ $\times$ lesser memory and being $5.2$ $\times$ faster compared to the previous state-of-the-art (SoA) embedded implementation. '

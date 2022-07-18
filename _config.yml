@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vishal Nagarajan"
 title_separator          : "-"
 name                     : &name "Vishal Nagarajan"
-description              : &description "Computer Science and Engineering Undergraduate"
+description              : &description "Incoming UCSD MSCS Fall 2022 Grad Student"
 url                      : https://vishaln15.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vishaln15/vishaln15.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Vishal Nagarajan"
   avatar           : "profile.png"
-  bio              : "Computer Science and Engineering Undergraduate"
+  bio              : "Incoming UCSD MSCS Fall 2022 Grad Student"
   location         : "Chennai, India"
   employer         :
   pubmed           : 
