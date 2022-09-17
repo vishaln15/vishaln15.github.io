@@ -6,23 +6,30 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+<h2>University of California, San Diego</h2>
+<ul>
+<li style="font-weight: bold">Fall 2022 Quarter [Sep 2022 - Present]</li>
+    <ul>
+    <li><b>CSE 202</b> - Algorithm Design and Analysis, Prof. Paturi</li>
+    <li><b>CSE 250A</b> - Probabilistic Reasoning and Learning, Prof. Berg-Kirkpatrick
+    <li><b>CSE 258R</b> - Recommender System and Web Mining, Prof. McAuley
+</ul>
 <h2>Solarillion Foundation</h2>
 <ul>
-<li style="font-weight: bold"><a href="https://www.solarillionfoundation.org/people/VishalNagarajan" target="_blank">Undergraduate Teaching and Research Assistant</a> [June 2020 &#8212; July 2022]</li>
+<li style="font-weight: bold"><a href="https://www.solarillionfoundation.org/people/VishalNagarajan" target="_blank">Undergraduate Teaching and Research Assistant</a> [Jun 2020 &#8212; Jul 2022]</li>
     <ul>
     <li>Guided students through basic Python and ML assignments, and project on predicting on-time performance of flights.</li>
     <li>Worked on revamping multiple pages for their <a href="https://github.com/solarillion/solarillion.github.io" target="_blank">website</a>.</li>
     <li>Researched on disease detection problem statements including <a href="https://github.com/vishaln15/Bradycardia-Prediciton" target="_blank">Bradycardia Prediction</a> and <a href="https://github.com/vishaln15/OptimizedArrhythmiaDetection" target="_blank">Atrial Fibrillation Detection</a></li>
     </ul>
-<li style="font-weight: bold">Undergraduate Project Assistant [January 2020 &#8212; April 2020]</li>
+<li style="font-weight: bold">Undergraduate Project Assistant [Jan 2020 &#8212; Apr 2020]</li>
     <ul>
         <li>Took up assignments on <a href="https://github.com/vishaln15/SolarillionFoundation" target="_blank">Python and ML Basics</a></li>
         <li>Worked on <a href="https://github.com/vishaln15/Flight-Delay-Prediction" target="_blank">Flight-Delay Prediction</a> project that employs a two-staged pipeline architecture to classify and predict the delay of flights in minutes.</li>
     </ul>
 </ul>
 <h2>Sri Sivasubramaniya Nadar (SSN) College of Engineering</h2>
-<h3>B.E. Computer Science and Engineering [August 2018 &#8212; June 2022]</h3>
+<h3>B.E. Computer Science and Engineering [Aug 2018 &#8212; Jun 2022]</h3>
 <h3>Relevant Coursework</h3>
 <ul>
     <li>Discrete Mathematics</li>
