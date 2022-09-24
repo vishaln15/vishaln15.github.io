@@ -62,7 +62,7 @@ facebook:
   username               : "vishal.nagarajan.71"
   app_id                 :
   publisher              :
-og_image                 :  profile.jpg # Open Graph/Twitter default site image
+og_image                 :  profile_new.jpg # Open Graph/Twitter default site image
 # For specifying social
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
