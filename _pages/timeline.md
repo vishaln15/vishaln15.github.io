@@ -10,9 +10,9 @@ author_profile: true
 <ul>
 <li style="font-weight: bold">Fall 2022 Quarter [Sep 2022 - Present]</li>
     <ul>
-    <li><b>CSE 202</b> - Algorithm Design and Analysis, Prof. Paturi</li>
     <li><b>CSE 250A</b> - Probabilistic Reasoning and Learning, Prof. Berg-Kirkpatrick</li>
     <li><b>CSE 258R</b> - Recommender System and Web Mining, Prof. McAuley</li>
+    <li><b>MED 277</b> - Introduction to Biomedical Natural Language Processing, Prof. Hogarth & Prof. Nemati</li>
     </ul>
 </ul>
 <h2>Solarillion Foundation</h2>
