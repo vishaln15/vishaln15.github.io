@@ -144,7 +144,9 @@ author_profile: true
     <div class="sent-analysis">
       <h3><u>Sentiment Analysis Flask App</u></h3>
       Small scale sentiment classification flask web app, containerized using Docker, and deployed on Google Cloud Run.
-
+      <a href="https://github.com/vishaln15/sentiment-analysis/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/vishaln15/sentiment-analysis"></a>
+      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vishaln15/sentiment-analysis">
+      <a href="https://github.com/vishaln15/sentiment-analysis" style="text-decoration: none"><i class="fab fa-github fa-spin"></i></a>
     </div>
   </div>
 
@@ -167,6 +169,7 @@ author_profile: true
       <a href="https://github.com/vishaln15/NeonatalSeizureDetection" style="text-decoration: none"><i class="fab fa-github fa-spin"></i></a>
     </div>
   </div>
+</div>
 
   <br>
 
@@ -180,7 +183,7 @@ author_profile: true
       <a href="https://github.com/vishaln15/pysigpro" style="text-decoration: none"><i class="fab fa-github fa-spin"></i></a>
     </div>
   </div>
-</div>
+
 
   <div class="column">
     <div class="techworld">
@@ -203,14 +206,16 @@ author_profile: true
   </div>
 </div>
 
-<div class="row">
-  <div class="column">
-    <div class="flightdelay">
-      <h3><u>Flight Delay Prediction</u></h3>
-      A two-staged pipeline architecture to classify and predict the delay of flights in minutes.
-      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vishaln15/Flight-Delay-Prediction">
-      <a href="https://github.com/vishaln15/Flight-Delay-Prediction/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/vishaln15/Flight-Delay-Prediction"></a>
-      <a href="https://github.com/vishaln15/Flight-Delay-Prediction" style="text-decoration: none"><i class="fab fa-github fa-spin"></i></a>
+<div align="center">
+  <div class="row">
+    <div class="column">
+      <div class="flightdelay">
+        <h3><u>Flight Delay Prediction</u></h3>
+        A two-staged pipeline architecture to classify and predict the delay of flights in minutes.
+        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vishaln15/Flight-Delay-Prediction">
+        <a href="https://github.com/vishaln15/Flight-Delay-Prediction/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/vishaln15/Flight-Delay-Prediction"></a>
+        <a href="https://github.com/vishaln15/Flight-Delay-Prediction" style="text-decoration: none"><i class="fab fa-github fa-spin"></i></a>
+      </div>
     </div>
   </div>
 </div>
