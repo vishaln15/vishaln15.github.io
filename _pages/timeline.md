@@ -8,7 +8,13 @@ author_profile: true
 {% include base_path %}
 <h2>University of California, San Diego</h2>
 <ul>
-<li style="font-weight: bold">Fall 2022 Quarter [Sep 2022 - Present]</li>
+<li style="font-weight: bold">Winter 2023 Quarter [Jan 2023 - Present]</li>
+    <ul>
+        <li><b>CSE 202</b> - Algorithm Design and Analysis, Prof. Impagliazzo</li>
+        <li><b>CSE 224</b> - Graduate Networked Systems, Prof. Porter</li>
+        <li><b>CSE 257</b> - Search and Optimization, Prof. Gao</li>
+    </ul>
+<li style="font-weight: bold">Fall 2022 Quarter [Sep 2022 - Dec 2022] <b>GPA -> 4.0/4.0</b></li>
     <ul>
     <li><b>CSE 250A</b> - Probabilistic Reasoning and Learning, Prof. Berg-Kirkpatrick</li>
     <li><b>CSE 258R</b> - Recommender System and Web Mining, Prof. McAuley</li>
