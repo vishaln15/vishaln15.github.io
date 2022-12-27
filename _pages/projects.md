@@ -36,6 +36,17 @@ author_profile: true
   text-align: center;
   /* background-color: #f1f1f1; */
 }
+.sent-analysis{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  background: linear-gradient(-45deg, #ff4500, #ffb3cc, #ff6699, #ff66ff);
+  background-size: 400% 400%;
+  animation: gradient 5s ease infinite;
+}
 .neonatal {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 16px;
@@ -127,7 +138,16 @@ author_profile: true
 
 <h2>You can also view my full list of projects <a href="https://github.com/vishaln15" target="_blank">here</a>.</h2>
 <br><br>
+
 <div class="row">
+  <div class="column">
+    <div class="sent-analysis">
+      <h3><u>Sentiment Analysis Flask App</u></h3>
+      Small scale sentiment classification flask web app, containerized using Docker, and deployed on Google Cloud Run.
+
+    </div>
+  </div>
+
   <div class="column">
     <div class="neonatal">
       <h3><u>Neonatal Seizure Detection</u></h3>
@@ -147,7 +167,10 @@ author_profile: true
       <a href="https://github.com/vishaln15/NeonatalSeizureDetection" style="text-decoration: none"><i class="fab fa-github fa-spin"></i></a>
     </div>
   </div>
-  
+
+  <br>
+
+<div class="row">  
   <div class="column">
     <div class="pysigpro">
       <h3><u>PySigPro</u></h3>
@@ -159,9 +182,6 @@ author_profile: true
   </div>
 </div>
 
-  <br>
-
-<div class="row">  
   <div class="column">
     <div class="techworld">
       <h3><u>TechWorld</u></h3>
@@ -181,7 +201,9 @@ author_profile: true
       <a href="https://github.com/vishaln15/Bradycardia-Prediciton" style="text-decoration: none"><i class="fab fa-github fa-spin"></i></a>
     </div>
   </div>
+</div>
 
+<div class="row">
   <div class="column">
     <div class="flightdelay">
       <h3><u>Flight Delay Prediction</u></h3>
