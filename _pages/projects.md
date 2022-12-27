@@ -206,16 +206,16 @@ author_profile: true
   </div>
 </div>
 
-<div align="center">
-  <div class="row">
-    <div class="column">
-      <div class="flightdelay">
-        <h3><u>Flight Delay Prediction</u></h3>
-        A two-staged pipeline architecture to classify and predict the delay of flights in minutes.
-        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vishaln15/Flight-Delay-Prediction">
-        <a href="https://github.com/vishaln15/Flight-Delay-Prediction/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/vishaln15/Flight-Delay-Prediction"></a>
-        <a href="https://github.com/vishaln15/Flight-Delay-Prediction" style="text-decoration: none"><i class="fab fa-github fa-spin"></i></a>
-      </div>
+<br>
+
+<div class="row">
+  <div class="column">
+    <div class="flightdelay">
+      <h3><u>Flight Delay Prediction</u></h3>
+      A two-staged pipeline architecture to classify and predict the delay of flights in minutes.
+      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vishaln15/Flight-Delay-Prediction">
+      <a href="https://github.com/vishaln15/Flight-Delay-Prediction/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/vishaln15/Flight-Delay-Prediction"></a>
+      <a href="https://github.com/vishaln15/Flight-Delay-Prediction" style="text-decoration: none"><i class="fab fa-github fa-spin"></i></a>
     </div>
   </div>
 </div>
