@@ -14,7 +14,7 @@ author_profile: true
         <li><b>CSE 291 F</b> - Topics in Computer Science and Engineering - Unsupervised Learning, Prof. Dasgupta</li>
         <li><b>CSE 293</b> - Special Project in Computer Science & Engineering, Prof. Nemati</li>
     </ul>
-<li style="font-weight: bold">Winter 2023 Quarter [Jan 2023 - Mar 2023]</li>
+<li style="font-weight: bold">Winter 2023 Quarter [Jan 2023 - Mar 2023] <b>GPA -> 3.9/4.0</b></li>
     <ul>
         <li><b>CSE 202</b> - Algorithm Design and Analysis, Prof. Impagliazzo</li>
         <li><b>CSE 224</b> - Graduate Networked Systems, Prof. Porter</li>
