@@ -8,7 +8,13 @@ author_profile: true
 {% include base_path %}
 <h2>University of California, San Diego</h2>
 <ul>
-<li style="font-weight: bold">Winter 2023 Quarter [Jan 2023 - Present]</li>
+<li style="font-weight: bold">Spring 2023 Quarter [Apr 2023 - Present]</li>
+    <ul>
+        <li><b>CSE 256</b> - Statistical Natural Language Processing, Prof. Nakashole</li>
+        <li><b>CSE 291 F</b> - Topics in Computer Science and Engineering - Unsupervised Learning, Prof. Dasgupta</li>
+        <li><b>CSE 293</b> - Special Project in Computer Science & Engineering, Prof. Nemati</li>
+    </ul>
+<li style="font-weight: bold">Winter 2023 Quarter [Jan 2023 - Mar 2023]</li>
     <ul>
         <li><b>CSE 202</b> - Algorithm Design and Analysis, Prof. Impagliazzo</li>
         <li><b>CSE 224</b> - Graduate Networked Systems, Prof. Porter</li>
