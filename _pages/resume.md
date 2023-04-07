@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 <iframe src="/files/pdf/Vishal_Nagarajan_Resume.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-Alternatively, you can download a PDF copy of my Resume <a href="/files/pdf/VISHAL_NAGARAJAN_RESUME.pdf" target="_blank">here</a>.
+Alternatively, you can download a PDF copy of my Resume <a href="/files/pdf/Vishal_Nagarajan_Resume.pdf" target="_blank">here</a>.
