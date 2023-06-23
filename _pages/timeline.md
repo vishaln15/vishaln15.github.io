@@ -8,7 +8,18 @@ author_profile: true
 {% include base_path %}
 <h2>University of California, San Diego</h2>
 <ul>
-<li style="font-weight: bold">Spring 2023 Quarter [Apr 2023 - Present]</li>
+<li style="font-weight: bold">Summer 2023 Quarter [Jun 2023 - Present] @ UC San Diego Health <i>(The Nemati Lab)</i></li>
+<ul>
+        <li><b>Machine Learning Developer <i>(Graduate Student Researcher)</i></b></li>
+        <ul>
+            <li>Collected vitals and fitness data from wearables such as Fitbit and Apple Watch using Fitbit API and Google Fit API respectively.</li>
+            <li>Implemented Speech-to-Text and Text-to-Speech engines to build a voice assistant prototype that asks healthcare questions and listens for answers.</li>
+            <li>Developing sophisticated DL models to predict sepsis using the wearable device data.</li>
+            <li>Utilizing <b>grounding LLMs</b> to understand patient answers parsed by the voice assistant and provide additional information to the DL models.</li>
+        </ul>
+</ul>
+
+<li style="font-weight: bold">Spring 2023 Quarter [Apr 2023 - Jun 2023] <b>GPA -> 4.0/4.0</b></li>
     <ul>
         <li><b>CSE 256</b> - Statistical Natural Language Processing, Prof. Nakashole</li>
         <li><b>CSE 291 F</b> - Topics in Computer Science and Engineering - Unsupervised Learning, Prof. Dasgupta</li>
