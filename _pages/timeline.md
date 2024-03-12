@@ -9,15 +9,15 @@ author_profile: true
 
 <h2>UC San Diego Health <i>(The Nemati Lab) [Apr 2023 - Jan 2024]</i></h2>
     <ul>
-            <li><b>Software Developer <i>(Graduate Student Researcher)</i></b></li>
-            <ul>
-                <li>Collected vitals and fitness data from wearables such as Fitbit and Apple Watch using Fitbit API and Google Fit API respectively.</li>
-                <li>Implemented Speech-to-Text and Text-to-Speech engines to build a voice assistant prototype that asks healthcare questions and listens for answers.</li>
-                <li>Developed sophisticated DL models to predict sepsis using the wearable device data.</li>
-                <li>Utilized <b>grounding LLMs</b> to understand patient answers parsed by the voice assistant and provide additional information to the DL models.</li>
-                <li>Spearheaded research on patient readmission prediction using multi-modal data including EHR data, wearable Fitbit data, and novel <b>Multi-scale entropy</b> (MSE) features.</li>
-                <li>Translated MATLAB codebase to Python for internal purposes of the <b>multi-scale network representation</b> (MSNR) project.</li>
-            </ul>
+        <li><b>Software Developer <i>(Graduate Student Researcher)</i></b></li>
+        <ul>
+            <li>Collected vitals and fitness data from wearables such as Fitbit and Apple Watch using <b>Fitbit API</b> and <b>Google Fit API</b> respectively.</li>
+            <li>Implemented <b>Speech-to-Text</b> and <b>Text-to-Speech</b> engines to build a voice assistant prototype that asks healthcare questions and listens for answers.</li>
+            <li>Developed sophisticated DL models to predict sepsis using the wearable device data.</li>
+            <li>Utilized <b>grounding LLMs</b> to understand patient answers parsed by the voice assistant and provide additional information to the DL models.</li>
+            <li>Spearheaded research on patient readmission prediction using multi-modal data including EHR data, wearable Fitbit data, and novel <b>Multi-scale entropy</b> (MSE) features.</li>
+            <li>Translated MATLAB codebase to Python for internal purposes of the <b>multi-scale network representation</b> (MSNR) project.</li>
+        </ul>
     </ul>
 
 <h2>University of California, San Diego</h2>
