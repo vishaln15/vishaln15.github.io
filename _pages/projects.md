@@ -36,6 +36,19 @@ author_profile: true
   text-align: center;
   /* background-color: #f1f1f1; */
 }
+.blog-analytics-dashboard{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  /* background-image: url('/images/techworld.png'); */
+  /* position: relative; */
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  background: linear-gradient(-45deg, #66ffff, #66d9ff, #66b3ff, #e6f2ff);
+	background-size: 400% 400%;
+  animation: gradient 5s ease infinite; 
+}
 .sent-analysis{
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 16px;
@@ -47,16 +60,18 @@ author_profile: true
   background-size: 400% 400%;
   animation: gradient 5s ease infinite;
 }
-.neonatal {
+.neonatal{
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 16px;
   text-align: center;
+  /* background-image: url('/images/bradycardia.svg'); */
+  /* position: relative; */
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
-  background: linear-gradient(-45deg, #ff4500, #ffb3cc, #ff6699, #ff66ff);
-  background-size: 400% 400%;
-  animation: gradient 5s ease infinite;
+  background: linear-gradient(-45deg, #ccffcc, #33ff33, #00cc00, #66ff33);
+	background-size: 400% 400%;
+  animation: gradient 5s ease infinite; 
 }
 .atrial{
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -97,19 +112,6 @@ author_profile: true
 	background-size: 400% 400%;
   animation: gradient 5s ease infinite; 
 }
-.bradycardia{
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  padding: 16px;
-  text-align: center;
-  /* background-image: url('/images/bradycardia.svg'); */
-  /* position: relative; */
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-position: center;
-  background: linear-gradient(-45deg, #ccffcc, #33ff33, #00cc00, #66ff33);
-	background-size: 400% 400%;
-  animation: gradient 10s ease infinite; 
-}
 .flightdelay{
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 16px;
@@ -140,11 +142,21 @@ author_profile: true
 <br><br>
 
 <div class="row">
+<div class="column">
+    <div class="blog-analytics-dashboard">
+      <h3><u>Blog Analytics Dashboard</u></h3>
+      A MERN stack application running on Next.js, Node.js, and MongoDB displaying analytics of blog including likes, dislikes, visits, and source of visits on the dashboard.
+      <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vishaln15/BlogAnalyticsDashboard"></a>
+      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vishaln15/BlogAnalyticsDashboard">
+      <a href="https://github.com/vishaln15/BlogAnalyticsDashboard" style="text-decoration: none"><i class="fab fa-github fa-spin"></i></a>
+    </div>
+  </div>
+
   <div class="column">
     <div class="sent-analysis">
       <h3><u>Sentiment Analysis Flask App</u></h3>
       Small scale sentiment classification flask web app, containerized using Docker, and deployed on Google Cloud Run.
-      <a href="https://github.com/vishaln15/sentiment-analysis/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/vishaln15/sentiment-analysis"></a>
+      <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vishaln15/pysigpro"></a>
       <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vishaln15/sentiment-analysis">
       <a href="https://github.com/vishaln15/sentiment-analysis" style="text-decoration: none"><i class="fab fa-github fa-spin"></i></a>
     </div>
@@ -159,7 +171,11 @@ author_profile: true
       <a href="https://github.com/vishaln15/NeonatalSeizureDetection" style="text-decoration: none"><i class="fab fa-github fa-spin"></i></a>
     </div>
   </div>
+</div>
 
+  <br>
+
+<div class="row">
   <div class="column">
     <div class="atrial">
       <h3><u>Atrial Fibrillation Detection</u></h3>
@@ -169,11 +185,6 @@ author_profile: true
       <a href="https://github.com/vishaln15/NeonatalSeizureDetection" style="text-decoration: none"><i class="fab fa-github fa-spin"></i></a>
     </div>
   </div>
-</div>
-
-  <br>
-
-<div class="row">  
   <div class="column">
     <div class="pysigpro">
       <h3><u>PySigPro</u></h3>
@@ -183,8 +194,6 @@ author_profile: true
       <a href="https://github.com/vishaln15/pysigpro" style="text-decoration: none"><i class="fab fa-github fa-spin"></i></a>
     </div>
   </div>
-
-
   <div class="column">
     <div class="techworld">
       <h3><u>TechWorld</u></h3>
@@ -192,30 +201,6 @@ author_profile: true
       <a href="https://github.com/vishaln15/techworld/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/vishaln15/techworld"></a>
       <a href="https://github.com/vishaln15/techworld/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/vishaln15/techworld"></a>
       <a href="https://github.com/vishaln15/techworld" style="text-decoration: none"><i class="fab fa-github fa-spin"></i></a>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="bradycardia">
-      <h3><u>Bradycardia Prediction</u></h3>
-      Bradycardia prediction using novel deep learning methods including Encoders & Seq2Seq.
-      <a href="https://github.com/vishaln15/Bradycardia-Prediciton/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/vishaln15/Bradycardia-Prediciton"></a>
-      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vishaln15/Bradycardia-Prediciton">
-      <a href="https://github.com/vishaln15/Bradycardia-Prediciton" style="text-decoration: none"><i class="fab fa-github fa-spin"></i></a>
-    </div>
-  </div>
-</div>
-
-<br>
-
-<div class="row">
-  <div class="column">
-    <div class="flightdelay">
-      <h3><u>Flight Delay Prediction</u></h3>
-      A two-staged pipeline architecture to classify and predict the delay of flights in minutes.
-      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vishaln15/Flight-Delay-Prediction">
-      <a href="https://github.com/vishaln15/Flight-Delay-Prediction/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/vishaln15/Flight-Delay-Prediction"></a>
-      <a href="https://github.com/vishaln15/Flight-Delay-Prediction" style="text-decoration: none"><i class="fab fa-github fa-spin"></i></a>
     </div>
   </div>
 </div>

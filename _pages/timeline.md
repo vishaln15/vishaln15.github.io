@@ -6,19 +6,35 @@ author_profile: true
 ---
 
 {% include base_path %}
+
+<h2>UC San Diego Health <i>(The Nemati Lab) [Apr 2023 - Jan 2024]</i></h2>
+    <ul>
+            <li><b>Software Developer <i>(Graduate Student Researcher)</i></b></li>
+            <ul>
+                <li>Collected vitals and fitness data from wearables such as Fitbit and Apple Watch using Fitbit API and Google Fit API respectively.</li>
+                <li>Implemented Speech-to-Text and Text-to-Speech engines to build a voice assistant prototype that asks healthcare questions and listens for answers.</li>
+                <li>Developed sophisticated DL models to predict sepsis using the wearable device data.</li>
+                <li>Utilized <b>grounding LLMs</b> to understand patient answers parsed by the voice assistant and provide additional information to the DL models.</li>
+                <li>Spearheaded research on patient readmission prediction using multi-modal data including EHR data, wearable Fitbit data, and novel <b>Multi-scale entropy</b> (MSE) features.</li>
+                <li>Translated MATLAB codebase to Python for internal purposes of the <b>multi-scale network representation</b> (MSNR) project.</li>
+            </ul>
+    </ul>
+
 <h2>University of California, San Diego</h2>
 <ul>
-<li style="font-weight: bold">Summer 2023 Quarter [Jun 2023 - Present] @ UC San Diego Health <i>(The Nemati Lab)</i></li>
-<ul>
-        <li><b>Machine Learning Developer <i>(Graduate Student Researcher)</i></b></li>
-        <ul>
-            <li>Collected vitals and fitness data from wearables such as Fitbit and Apple Watch using Fitbit API and Google Fit API respectively.</li>
-            <li>Implemented Speech-to-Text and Text-to-Speech engines to build a voice assistant prototype that asks healthcare questions and listens for answers.</li>
-            <li>Developing sophisticated DL models to predict sepsis using the wearable device data.</li>
-            <li>Utilizing <b>grounding LLMs</b> to understand patient answers parsed by the voice assistant and provide additional information to the DL models.</li>
-        </ul>
-</ul>
-
+<li style="font-weight: bold">Winter 2024 Quarter [Jan 2024 - Mar 2024] <b>GPA -> YTD</b></li>
+    <ul>
+        <li><b>CSE 210</b> - Principles of Software Engineering, Prof. Coblenz</li>
+        <li><b>CSE 251 A</b> - ML: Learning Algorithms<, Prof. Berg-Kirkpatrick/li>
+        <li><b>CSE 290</b> - Topics in Robotics (Seminar), Prof. Christensen</li>
+        <li><b>ECE 290</b> - Seminar/Current ECE Research, Prof. Sievenpiper</li>
+    </ul>
+<li style="font-weight: bold">Fall 2023 Quarter [Sep 2023 - Dec 2023] <b>GPA -> 4.0/4.0</b></li>
+    <ul>
+        <li><b>COGS 231</b> - Human-Centered Programming, Prof. Guo</li>
+        <li><b>MED 264</b> - Principles of Biomedical Informatics, Prof. Kuo</li>
+        <li><b>BNFO 299</b> - Graduate Research, Prof. Nemati</li>
+    </ul>
 <li style="font-weight: bold">Spring 2023 Quarter [Apr 2023 - Jun 2023] <b>GPA -> 4.0/4.0</b></li>
     <ul>
         <li><b>CSE 256</b> - Statistical Natural Language Processing, Prof. Nakashole</li>
