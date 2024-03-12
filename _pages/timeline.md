@@ -25,7 +25,7 @@ author_profile: true
     <li style="font-weight: bold">Winter 2024 Quarter [Jan 2024 - Mar 2024] <b>GPA -> YTD</b></li>
         <ul>
             <li><b>CSE 210</b> - Principles of Software Engineering, Prof. Coblenz</li>
-            <li><b>CSE 251 A</b> - ML: Learning Algorithms<, Prof. Berg-Kirkpatrick/li>
+            <li><b>CSE 251 A</b> - ML: Learning Algorithms, Prof. Berg-Kirkpatrick</li>
             <li><b>CSE 290</b> - Topics in Robotics (Seminar), Prof. Christensen</li>
             <li><b>ECE 290</b> - Seminar/Current ECE Research, Prof. Sievenpiper</li>
         </ul>
